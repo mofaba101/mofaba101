@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @mofaba101, CEO & Owner of "IZI Soft"
-- 👀 I’m interested in Software Development & Cyber Security
-- 🌱 I’m currently learning C++
-- 📫 How to reach me? (IG: mofaba101)
+- 👋 @mofaba101, CEO & Owner of "IZI Soft"
+- 👀 Interested in Software Development & Cyber Security
+- 📫 Reach me? (IG: mofaba101)
